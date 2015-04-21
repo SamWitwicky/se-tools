@@ -1,19 +1,19 @@
 # 软件工程 – 专业所需工具 #
 
-此处的列表不一定能够及时更新，最后更新日期为2014.12.27，原文在[这里](http://www.flygon.net/archives/1721)。
+此处的列表不一定能够及时更新，最后更新日期为2014.12.27，原文在[这里](http://www.flygon.net/se-tools)。
 
 ---
 
 + 绝大多数软件对个人免费。一部分对学生免费，请准备好你的edu邮箱。
 + 收费软件均提供序列号或破解补丁，仅供个人目的使用。请大家在自己能力范围内尽量支持正版。
 
-## 7-zip ##
+## 7-zip
 
 免费开源的文件压缩工具。
 
 [官方下载](http://sparanoid.com/lab/7z/)
 
-## android studio ##
+## android studio
 
 谷歌基于intelij开发的安卓开发工具。
 
@@ -26,55 +26,55 @@
 
 [官方下载](http://www.android-studio.org/)
 
-## apache ##
+## apache
 
 世界使用排名第一的Web服务器软件，可以运行在几乎所有广泛使用的计算机平台上。
 
 [ApacheHaus下载](http://www.apachehaus.com/cgi-bin/download.plx)
 
-## code::blocks ##
+## code::blocks
 
 非常好用的开源C/C++ IDE，与mingw搭配使用。替代vc6.0的免费解决方案。
 
 [官方下载](http://www.codeblocks.org/downloads/26)
 
-## feeddemon ##
+## feeddemon
 
 RSS聚合新闻阅读器。由于正规的Blog站点都提供RSS文件,因而您可以方便的在桌面快速浏览RSS的世界而不需要访问上百个网站。新版本无需注册即可永久免费使用。
 
 [官方下载](http://www.feeddemon.com/)
 
-## fiddler2 ##
+## fiddler2
 
 免费开源的http协议封包抓取和分析软件。
 
 [官方下载](http://www.telerik.com/download/fiddler)
 
-## filezilla ##
+## filezilla
 
 开源免费的ftp管理软件。可能是当前windows上最好用的ftp管理软件。
 
 [官方下载](https://filezilla-project.org/download.php?type=client)
 
-## git-scm ##
+## git-scm
 
 免费、开源的分布式版本控制系统。
 
 [官方下载](http://git-scm.com/download/)
 
-## idea intelij ##
+## idea intelij
 
 公认最好用的java IDE，Community版免费。
 
 [官方下载](http://www.jetbrains.com/idea/download/)
 
-## Java Development Kit (JDK) ##
+## Java Development Kit (JDK)
 
 Java 语言的软件开发工具包。包含java编译器、虚拟机、类库等运行环境。
 
 [官方下载](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-## markdown pad2 ##
+## markdown pad2
 
 windows下最好用的markdown编辑器。
 
@@ -88,82 +88,171 @@ ZkAt8b701hD2xW/DpZV1yz9AWuT5JQGlioNPOfqN2sal614Sato7+OX++W/qzAT2L+To5a30nKTWtP6F
 
 [官方下载](http://www.markdownpad.com/download.html)
 
-## mysql ##
+## matlab r2012b ##
+
+数据分析，科学计算的利器。编程语言中的“航天飞机”。
+
+[百度云下载](http://pan.baidu.com/share/link?uk=655076662&shareid=647565115)
+[license & key](http://vdisk.weibo.com/s/aADaW4YROBEKj)
+
+## mind manager ##
+
+### v9 ###
+
+序列号：
+
+```
+MP93-617-CP79-BEEB-82A1
+MP91-555-BP69-BAF8-7A56
+MP9M-959-APE2-E673-82BA
+```
+
+[系统之家下载](http://www.xitongzhijia.net/soft/24290.html)
+
+### 2012 ###
+
+序列号：
+
+```
+MP10-484-CP49-D555-22M2
+MP10-988-7P45-2A87-M118
+MP10-959-2PD8-291E-D7D4
+MP10-771-9P43-3AB1-A798
+MP10-518-DP5M-A5DF-F99A
+MP10-733-3P1E-FE7A-D3BM
+```
+
+[PC6下载](http://www.pc6.com/softview/SoftView_53990.html)
+[汉化包](http://www.cr173.com/soft/42249.html)
+
+### 2014 ###
+
+序列号：
+
+```
+MP74-498-BP4E-D6CF-AEB5
+MP78-812-2P94-D1DM-35F3
+MP74-987-BPC7 -41DE-E3FF
+```
+
+[绿色先锋下载](http://www.greenxf.com/soft/53111.html)
+
+### 2015 ###
+
+序列号：
+
+```
+MP15-M19-9P23-876A-9999
+```
+
+[PC6下载](http://www.pc6.com/softview/SoftView_58828.html)
+
+## mysql
 
 最流行的关系型数据库管理系统，由瑞典MySQL AB公司开发，目前属于Oracle公司。
 
 [官方下载](http://dev.mysql.com/downloads/)
 
-## navicat for sqlite ##
+## navicat for sqlite
 
 navicat出品的sqlite图形化管理软件。在体验和易用性方面还是比较不错的。
 
 [官方下载](http://www.navicat.com.cn/products/navicat-for-sqlite)
 [软件+破解补丁下载](http://download.csdn.net/detail/zar19901007/6417605)
 
-## .net framework ##
+## .net framework
 
 .net运行环境，包括.net虚拟机和类库等。
 
 [CRSKY下载(2.0)](http://www.crsky.com/soft/4818.html)
 [CRSKY下载(4.0)](http://www.crsky.com/soft/6959.html)
 
-## netbeans ##
+## netbeans
 
 支持Java、PHP、C/C++开发的IDE，oracle（以前是sun）出品。比eclipse好用一万倍。
 
 [官方下载](http://www.netbeans.org.cn/downloads/index.html)
 
-## notepad++ ##
+## notepad++
 
 免费开源、小型轻量化的文本编辑器，支持多种编码转换。可能是windows上最好用的编辑器。
 
 [官方下载](http://www.notepad-plus-plus.org/download)
 
-## office2013 ##
+## office2013
 
 装机必备办公工具，包含Word/PPT/Excel等。
 
 [官方下载](http://office.microsoft.com/zh-cn/products/?CTT=97)
-[office toolkit](http://microsofttoolkit.com/)
+[office toolkit](http://vdisk.weibo.com/s/aADaW4YRODsfU)
 
-## photoshop cs3 精简版 ##
+## photoshop ##
 
 设计必备软件，专业图形设计与处理。
 
+**软件均已注册激活，安装目录下的`amtlib.dll`是破解补丁，覆盖到任何相同版本未注册的PS上即可为其注册。**
+
+### cs2 精简版 ###
+
+[绿色先锋下载](http://www.greenxf.com/soft/15565.html)
+
+### cs3 精简版 ###
+
 [当下软件下载](http://www.downxia.com/downinfo/3560.html)
 
-## php ##
+### cs4 精简版 ###
+
+[ZOL下载](http://xiazai.zol.com.cn/detail/41/406130.shtml)
+
+### cs5 精简版 ##
+
+[创E下载](http://www.7edown.com/soft/down/soft_643.html)
+
+### cs6 精简版 ###
+
+[XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/16483.html)
+
+### cc 精简版 ###
+
+[XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
+
+## php
 
 PHP（PHP: Hypertext Preprocessor，超文本预处理器）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。
 
 [官方下载](http://php.net/downloads.php)
 
-## prezi ##
+## powerdesigner
+
+windows上最好用的uml建模工具。
+
+[CR173下载（软件+补丁）](http://www.cr173.com/soft/23650.html)
+
+## prezi
 
 云端的演示文稿制作软件,采用故事板（storyboard）格式让演示者可以缩放图片，通过快捷的动画演示关键点。免费版本（edu enjoy）需要edu邮箱。
 
 [官方下载](http://prezi.com/pricing/edu/)
 
-## python ##
+## python
 
 一种面向对象的脚本式编程语言。
 
 [官方下载](https://www.python.org/downloads/)
 
-## qt ##
+## qt
 
 跨平台的C++ GUI库。带有一个名为qt creator的IDE。替代MFC的最佳选择。
 
 [官方下载](http://www.qt.io/download/)
 
-## sqlite ##
+## sqlite
 
 小型轻量化的文件式数据库，支持主流操作系统，为很多语言提供API。
 
 [官方下载](http://www.sqlite.org/download.html)
 
-## sublime 2 ##
+## sublime 2
 
 最华丽的文本编辑工具。
 
@@ -187,17 +276,17 @@ B98FC99C 8FAC73EE D2B95564 DF450523
 
 [官方下载](http://www.sublimetext.com/2)
 
-## ubuntu ##
+## ubuntu
 
 linux发行版之一，界面友好，易于入门。
 
 [官方下载](http://ubuntu-china.cn/download)
 
-## visual studio ##
+## visual studio
 
 windows上最好用的IDE，用于开发C/C++、C#、VB以及其它。
 
-### vs2010 professional ###
+### vs2010 professional
 
 序列号
 
@@ -206,9 +295,10 @@ YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 ```
 
 [官方下载](http://download.microsoft.com/download/4/0/E/40EFE5F6-C7A5-48F7-8402-F3497FABF888/X16-42555VS2010ProTrial1.iso)
+
 [官方下载（sp1）](http://download.microsoft.com/download/E/B/A/EBA0A152-F426-47E6-9E3F-EFB686E3CA20/VS2010SP1dvd1.iso)
 
-### vs2012 professional ###
+### vs2012 professional
 
 序列号
 
@@ -218,11 +308,11 @@ YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 
 [官方下载](http://download.microsoft.com/download/B/2/8/B2801FEE-9A60-4AFA-8657-0E8AB0A373F0/VS2012_PRO_chs.iso)
 
-### vs2013 Community ###
+### vs2013 Community
 
 [官方下载](http://download.microsoft.com/download/7/1/B/71BA74D8-B9A0-4E6C-9159-A8335D54437E/vs2013.4_ce_enu.iso)
 
-## vmware 10 workstation ##
+## vmware 10 workstation
 
 虚拟机软件，支持Windows 8.1、平板电脑传感器和即将过期的虚拟机。
 
@@ -234,21 +324,21 @@ JA2UP-0329H-2Z8K0-T1C76-A2JLV
 HA01E-DYL1Q-AZ7V8-419Q2-9C050
 ```
 
-[官方下载](http://www.vmware.com/products/workstation/)
+[官方下载](https://my.vmware.com/web/vmware/details?productId=362&downloadGroup=WKST-1000-WIN-A)
 
-## wireshark ##
+## wireshark
 
 网络封包分析软件,原名Ethereal。
 
 [官方下载](https://www.wireshark.org/download.html)
 
-## wps ##
+## wps
 
 国产的文档表格和幻灯片制作工具，对个人免费。
 
 [官方下载](http://www.wps.cn/product/download/)
 
-## zeal ##
+## zeal
 
 开源的API文档浏览工具，支持dash的所有文档（docset格式）。
 
