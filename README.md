@@ -243,19 +243,11 @@ windows上最好用的IDE，用于开发C/C++、C#、VB以及其它。
 
 [官方下载](http://download.microsoft.com/download/7/1/B/71BA74D8-B9A0-4E6C-9159-A8335D54437E/vs2013.4_ce_enu.iso)
 
-## vmware 10 workstation
+## vmware player
 
 虚拟机软件，支持Windows 8.1、平板电脑传感器和即将过期的虚拟机。
 
-序列号：
-
-```
-NF6DV-8AL0J-CZ6G9-WHA5H-8223A
-JA2UP-0329H-2Z8K0-T1C76-A2JLV
-HA01E-DYL1Q-AZ7V8-419Q2-9C050
-```
-
-[官方下载](https://my.vmware.com/web/vmware/details?productId=362&downloadGroup=WKST-1000-WIN-A)
+[官方下载](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
 
 ## wireshark
 
