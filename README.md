@@ -13,21 +13,21 @@
 
 ### acrobat pro x ###
 
-[PC6下载](http://www.pc6.com/softview/SoftView_59267.html)
+[下载地址](http://www.pc6.com/softview/SoftView_59267.html)
 
-[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-LQ9)
+[破解补丁](bin/acrobat_x_amtlib.7z)
 
 ### acrobat pro xi ###
 
-[百度软件下载](http://rj.baidu.com/soft/detail/27081.html?ald)
+[下载地址](http://rj.baidu.com/soft/detail/27081.html?ald)
 
-[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-8TA)
+[破解补丁](bin/acrobat_xi_amtlib.7z)
 
 ### acrobat pro dc ###
 
-[闪电下载](http://www.sdbeta.com/xiazai/2015/0409/30465.html)
+[下载地址](http://www.sdbeta.com/xiazai/2015/0409/30465.html)
 
-[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-8RP)
+[破解补丁](bin/acrobat_dc_amtlib.zip)
 
 ## android studio
 
@@ -46,7 +46,7 @@
 
 世界使用排名第一的Web服务器软件，可以运行在几乎所有广泛使用的计算机平台上。
 
-[ApacheHaus下载](http://www.apachehaus.com/cgi-bin/download.plx)
+[官方下载](http://www.apachehaus.com/cgi-bin/download.plx)
 
 ## atom ##
 
@@ -65,7 +65,7 @@ Github出品的代码编辑器，原生支持Markdown。
 注册码3：+f4T7ql2FvMB6Jx0PvfoGBB8T5UdAfIZi3uJiP4VHI6xGkev7hKHh+xJrJDNZjRS
 ```
 
-[新云下载](http://www.newasp.net/soft/81224.html)
+[下载地址](http://www.newasp.net/soft/81224.html)
 
 ## code::blocks
 
@@ -113,9 +113,9 @@ Java 语言的软件开发工具包。包含java编译器、虚拟机、类库�
 
 数据分析，科学计算的利器。编程语言中的“航天飞机”。
 
-[百度云下载](http://pan.baidu.com/share/link?uk=655076662&shareid=647565115)
+[下载地址](http://pan.baidu.com/share/link?uk=655076662&shareid=647565115)
 
-[license & key](http://vdisk.weibo.com/s/aADaW4YROBEKj)
+[license & key](bin/matlab_r2012b_license_key.7z)
 
 ## mysql
 
@@ -129,15 +129,15 @@ navicat出品的图形化管理软件。支持多种数据库。在体验和易�
 
 [官方下载](http://www.navicat.com.cn/download)
 
-[v11通用补丁](http://vdisk.weibo.com/s/aADaW4YRE_B-c)
+[v11通用补丁](bin/PatchNavicat_11.7z)
 
 ## .net framework
 
 .net运行环境，包括.net虚拟机和类库等。
 
-[CRSKY下载(2.0)](http://www.crsky.com/soft/4818.html)
+[下载地址(2.0)](http://www.crsky.com/soft/4818.html)
 
-[CRSKY下载(4.0)](http://www.crsky.com/soft/6959.html)
+[下载地址(4.0)](http://www.crsky.com/soft/6959.html)
 
 ## netbeans
 
@@ -157,31 +157,31 @@ navicat出品的图形化管理软件。支持多种数据库。在体验和易�
 
 **软件均已注册激活，安装目录下的`amtlib.dll`是破解补丁，覆盖到任何相同版本未注册的PS上即可为其注册。**
 
-[cs4~cc破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-9lP)
+[cs4~cc破解补丁](bin/photoshop_cs4~cc_amtlib_x86_x64.7z)
 
 ### cs2 精简版 ###
 
-[绿色先锋下载](http://www.greenxf.com/soft/15565.html)
+[下载地址](http://www.greenxf.com/soft/15565.html)
 
 ### cs3 精简版 ###
 
-[当下软件下载](http://www.downxia.com/downinfo/3560.html)
+[下载地址](http://www.downxia.com/downinfo/3560.html)
 
 ### cs4 精简版 ###
 
-[ZOL下载](http://xiazai.zol.com.cn/detail/41/406130.shtml)
+[下载地址](http://xiazai.zol.com.cn/detail/41/406130.shtml)
 
 ### cs5 精简版 ##
 
-[创E下载](http://www.7edown.com/soft/down/soft_643.html)
+[下载地址](http://www.7edown.com/soft/down/soft_643.html)
 
 ### cs6 精简版 ###
 
-[XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/16483.html)
+[下载地址](http://www.xp510.com/xiazai/Graphics/ImageProces/16483.html)
 
 ### cc 精简版 ###
 
-[XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
+[下载地址](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
 
 ## php
 
@@ -195,15 +195,15 @@ windows上最好用的uml建模工具。
 
 ### pd15 ###
 
-[CR173下载](http://www.cr173.com/soft/23650.html)
+[下载地址](http://www.cr173.com/soft/23650.html)
 
-[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-LQ9)
+[破解补丁](bin/powerdesigner_15_pdflm15.7z)
 
 ### pd16 ###
 
 [官方下载](https://s3.amazonaws.com/powerdesigner/PowerDesigner165SP04/16.5.SP04.PL01.4535.FullPDESx86.zip)
 
-[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-Lgn)
+[破解补丁](bin/powerdesigner_16_pdflm16.rar)
 
 ## prezi
 
